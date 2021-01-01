@@ -2,15 +2,15 @@
 Rough simulation of the effects of sterilization on average populational IQ.
 * Population
     * Start with 1000
+    * Initial individual age sampled from existting data
     * 50/50 male/female ratio
-    * Initial individual IQ follows Gaussian distribution
-    * Individuals can die for various reasons
-    * People die at 
+    * Initial individual IQ sampled from Gaussian distribution
+    * Individuals can die for various reasons, death rate calculated based on data
 
 * Marriage
     * 50% chance to marry for each step
     * Divorce/remarriage not considered
-    * Parent-child relationship not considered
+    * Parents can have only one child
 
 * Reproduction
     * 50% chance to have children
