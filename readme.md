@@ -21,6 +21,10 @@ Rough simulation of the effects of sterilization on average populational IQ.
     * Step through 100 years (parameterizable)
     * Calculate average IQ and distribution for each step (visualization)
 
+## Usage
+<code>
+python main.py
+
 ## Datasets/Sources
 * http://www.ipss.go.jp/p-toukei/JMD/00/STATS/bltper_1x1.txt
 * https://ourworldindata.org/marriages-and-divorces
