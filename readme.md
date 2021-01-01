@@ -24,6 +24,7 @@ Rough simulation of the effects of sterilization on average populational IQ.
 ## Usage
 <code>
 python main.py
+</code>
 
 ## Dependencies
  * pandas==0.25.1
