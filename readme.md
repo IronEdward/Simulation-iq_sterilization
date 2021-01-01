@@ -27,6 +27,7 @@ python main.py
 </code>
 
 ## Dependencies
+ * python==3.7.4
  * pandas==0.25.1
  * matplotlib==3.3.3
  * scipy==1.3.1
