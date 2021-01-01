@@ -25,6 +25,11 @@ Rough simulation of the effects of sterilization on average populational IQ.
 <code>
 python main.py
 
+## Dependencies
+ * pandas==0.25.1
+ * matplotlib==3.3.3
+ * scipy==1.3.1
+
 ## Datasets/Sources
 * http://www.ipss.go.jp/p-toukei/JMD/00/STATS/bltper_1x1.txt
 * https://ourworldindata.org/marriages-and-divorces
