@@ -1,4 +1,4 @@
-"""Uses linear regression to generate probability of marriage for each age."""
+"""Uses curve fitting to generate probability of marriage for each age."""
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.optimize import curve_fit
