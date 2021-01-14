@@ -31,6 +31,11 @@ python main.py
  * pandas==0.25.1
  * matplotlib==3.3.3
  * scipy==1.3.1
+ 
+## TODO
+ * Replace birth probability, etc. with values obtained from real-world data
+ * Enable multi-graph mode
+ * etc.
 
 ## Datasets/Sources
 * http://www.ipss.go.jp/p-toukei/JMD/00/STATS/bltper_1x1.txt
